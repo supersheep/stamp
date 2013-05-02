@@ -1,0 +1,4 @@
+Stamp
+==========
+
+Another Browser IDE
